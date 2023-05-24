@@ -34,7 +34,7 @@ To set up the project, follow these steps:
 1. Clone the repository:
 
 ```
-git clone https://github.com/CodeWithNeha/FIFO_SPLIT_ASSESSMENT.git
+git clone https://github.com/CodeWithNeha/FIFO_STOCK.git
 ```
 
 2. Navigate to the project directory:
